@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/caro"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="15dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/cbxLuffy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <CheckBox
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="15dp"
+        android:layout_above="@id/cbxSongoku"
+        android:id="@+id/cbxPikachu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <CheckBox
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="15dp"
+        android:layout_above="@id/cbxLuffy"
+        android:id="@+id/cbxSongoku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:layout_marginBottom="5dp"
+        android:thumb="@drawable/luffy"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/cbxLuffy"
+        android:id="@+id/sbrLuffy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:layout_marginBottom="5dp"
+        android:thumb="@drawable/pikachu"
+        android:layout_above="@id/sbrSongoku"
+        android:layout_toRightOf="@id/cbxPikachu"
+        android:id="@+id/sbrPikachu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <SeekBar
+        android:progressDrawable="@android:color/transparent"
+        android:layout_marginBottom="5dp"
+        android:thumb="@drawable/songoku"
+        android:layout_above="@id/sbrLuffy"
+        android:layout_toRightOf="@id/cbxSongoku"
+        android:id="@+id/sbrSongoku"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/animalcrossing"
+        android:layout_width="150dp"
+        android:layout_height="120dp"/>
+
+    <TextView
+        android:id="@+id/txtDiem"
+        android:layout_margin="15dp"
+        android:textStyle="bold"
+        android:textColor="#ff00"
+        android:textSize="50sp"
+        android:text="100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textSize="20sp"
+        android:textColor="#ff00"
+        android:textStyle="bold"
+        android:layout_centerVertical="true"
+        android:text="Nguyen Le Minh_1911505310235"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <ImageButton
+        android:id="@+id/btnPlay"
+        android:layout_centerInParent="true"
+        android:background="@null"
+        android:src="@drawable/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
