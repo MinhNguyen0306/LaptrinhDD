@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_food"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="60dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/bg_food"
+                android:alpha="0.3"
+                app:tint="#77000000" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/bg_food"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="55dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_name_food"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Day la item 1"
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif-light"
+                    android:layout_marginTop="25dp"
+                    android:textSize="25sp"/>
+
+                <TextView
+                    android:id="@+id/txt_num_item"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cai gi vay"
+                    android:textColor="#77000000"
+                    android:textStyle="normal"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="17sp"/>
+
+                <TextView
+                    android:id="@+id/txt_gia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="6$"
+                    android:textColor="#0000cc"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif"
+                    android:textSize="20sp"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+
+        <ImageView
+            android:id="@+id/imgFood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ramen"
+            android:padding="15dp" />
+
+        <RelativeLayout
+            android:layout_height="match_parent"
+            android:layout_width="42dp"
+            android:layout_marginVertical="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:src="@drawable/plus" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:src="@drawable/minus"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

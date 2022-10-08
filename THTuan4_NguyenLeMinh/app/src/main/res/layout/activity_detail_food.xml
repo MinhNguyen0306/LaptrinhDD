@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailFoodActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:id="@+id/btnBackFromDetail"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:background="@drawable/grad"
+            app:srcCompat="@android:drawable/ic_menu_revert" />
+
+        <ImageView
+            android:id="@+id/img_detail_food"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/ramen"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="15sp">
+        <TextView
+            android:id="@+id/txt_detail_namefood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name Food Here"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txt_detail_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/nav_footer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/nav_bg"
+                app:itemTextColor="@drawable/item_active"
+                app:itemIconTint="@drawable/item_active"
+                app:menu="@menu/menu_item" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>
