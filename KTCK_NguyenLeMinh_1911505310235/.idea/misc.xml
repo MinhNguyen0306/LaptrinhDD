@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_box.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_food.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_indicator.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_right.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_splash_screen.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_accept.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_active.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_disable.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/cart_item_corner.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/cate_backgournd_selector.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/custom_appbar_background.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/dialog_custom.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/dialog_custom_content.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/drawable_custom_toast.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/drawer_layout_background.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_dropdown_background.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_dropdown_foreground.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/input_search.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/item_order_admin_drawable.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/khuyen_mai.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/nav_detailfood.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/nav_detailfood_isInCart.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/nav_footer_detail_in_cart.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/sign_background_selector.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/sign_check_background.xml" value="0.194" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/style_spinner.xml" value="0.1895" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/drawable/transparent_background.xml" value="0.1735" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_admin.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_cart.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_detail_food.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_enter_otpactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_food_management.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_get_otpactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_register.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_reset_password.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_splash_screen.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/drawerlayout_header_nav.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/food_management_fragment.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_order_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_category_selected.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_food.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_history.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_order_admin.xml" value="0.1" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_slider.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/layout_bottom_sheet_cart.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/layout_custom_toast.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/layout_dialog_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/order_management_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/layout/style_spinner.xml" value="0.264" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/menu/drawerlayout_admin_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/menu/menu_detail_food.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/menu/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/KTCK_NguyenLeMinh_1911505310235/app/src/main/res/menu/menu_item_list_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/button.xml" value="0.2265" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/circle_border.xml" value="0.2265" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/forget.xml" value="0.2265" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/grad.xml" value="0.219" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/ic_settings.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/drawable/register.xml" value="0.2265" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan3_NguyenLeMinh/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/bg_food.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/bg_gg.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/bg_right.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/button.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/button_active.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/cate_backgournd_selector.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/cate_check_background.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/cate_unchecked_backgound.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/circle.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/circle_border.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/grad.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/item_active.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/nav_bg.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/round_button.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/round_imgbutton.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/sign_back.xml" value="0.2015" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/sign_background_selector.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/sign_check_background.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/drawable/sign_uncheck_background.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_detail_food.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_list.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_main.xml" value="0.2351851851851852" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/footer_layout.xml" value="0.15" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/item_food.xml" value="0.1763888888888889" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/item_food2.xml" value="0.15" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/menu/double_button.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan4_NguyenLeMinh/app/src/main/res/menu/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/bg_right.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_accept.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_active.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_reject.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/button_view_detail.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/cate_check_background.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/circle.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/circle_border.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/ctr_bg.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/custom_appbar_background.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/edittext_non_stroke.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/forget.xml" value="0.1855" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/grad.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/input_search.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/item_active.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/item_order_admin_drawable.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/layout_gb.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/nav_bg.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/nav_detailfood.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/search_btn.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/drawable/sign_back.xml" value="0.194" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_detail_food.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_food_management.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_food_management2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_list.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_main.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/app_bar_admin.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/cart_item.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/content_admin.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_accept_admin.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_gallery.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_home.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_order_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_process_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/fragment_slideshow.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_category_selected.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_food.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_food_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/item_order_admin.xml" value="0.264" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/layout_bottom_sheet_cart.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/layout/nav_header_admin.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/menu/admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/menu/menu_detail_food.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Studio/THTuan7_NguyenLeMinh_1911505310235/app/src/main/res/menu/menu_item.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GetOTPActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:translationZ="1dp"
+        android:background="@drawable/background">
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sign_back"
+        android:gravity="center"
+        android:paddingVertical="40dp"
+        android:layout_centerInParent="true"
+        android:translationZ="2dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/password"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="OTP Verification"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter the OTP send to"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:textColor="#706F6F"
+                />
+
+            <TextView
+                android:id="@+id/txt_email_enter_otp_ac"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter the OTP send to"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginHorizontal="40dp"
+                android:layout_marginTop="40dp"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/otp_1"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+                <EditText
+                    android:id="@+id/otp_2"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+                <EditText
+                    android:id="@+id/otp_3"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+                <EditText
+                    android:id="@+id/otp_4"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+                <EditText
+                    android:id="@+id/otp_5"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+                <EditText
+                    android:id="@+id/otp_6"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Did receive the OTP?"
+                    android:textSize="16sp"
+                    android:layout_marginRight="7dp"
+                    android:textStyle="normal"
+                    android:textColor="#706F6F"
+                    />
+
+                <TextView
+                    android:id="@+id/txt_resend_otp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="RESEND OTP"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#F80707"
+                    />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_verify_otp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="VERIFY"
+                android:background="@drawable/button"
+                android:layout_marginHorizontal="40dp"
+                android:layout_marginTop="22dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="18sp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

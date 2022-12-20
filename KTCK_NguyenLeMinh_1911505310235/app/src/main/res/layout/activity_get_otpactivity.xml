@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GetOTPActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:translationZ="1dp"
+        android:background="@drawable/background">
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:translationZ="3dp"
+        android:padding="20dp">
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:visibility="gone"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sign_back"
+        android:gravity="center"
+        android:paddingVertical="40dp"
+        android:layout_centerInParent="true"
+        android:translationZ="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/message"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="OTP Verification"
+                android:textSize="23sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter your email to receive the OTP code"
+                android:layout_marginVertical="6dp"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:textColor="#706F6F"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:text="Enter your email "
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:textColor="#706F6F"
+                />
+
+            <EditText
+                android:id="@+id/edt_email_get_otp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginHorizontal="30dp"
+                android:inputType="text"
+                android:hint="ex: codonngannam@gmail.com"
+                />
+
+            <Button
+                android:id="@+id/btn_get_otp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Get OTP"
+                android:background="@drawable/button"
+                android:layout_marginHorizontal="40dp"
+                android:layout_marginTop="22dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="18sp"/>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>

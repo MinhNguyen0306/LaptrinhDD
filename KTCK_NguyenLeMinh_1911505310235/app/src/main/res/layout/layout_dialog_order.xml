@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:background="@drawable/dialog_custom_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Đặt món"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:background="@drawable/dialog_custom"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hình thức thanh toán"
+        android:textStyle="bold"
+        android:layout_marginVertical="15dp"
+        android:gravity="center"
+        android:textSize="20sp"/>
+    <Spinner
+        android:id="@+id/spn_type_payment"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/style_spinner"
+        android:spinnerMode="dialog"
+        android:layout_marginHorizontal="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Địa chỉ"
+        android:textStyle="bold"
+        android:layout_marginVertical="15dp"
+        android:gravity="center"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/edt_address"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="Enter address"
+        android:background="@drawable/forget"
+        android:inputType="text"
+        android:layout_marginHorizontal="20dp"
+        android:paddingHorizontal="15dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="20dp">
+        <Button
+            android:id="@+id/btn_cancel_dialog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:layout_marginRight="7dp"
+            android:background="@drawable/button_reject"/>
+        <Button
+            android:id="@+id/btn_accept_order_dialog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Order"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:layout_marginLeft="7dp"
+            android:background="@drawable/button_accept"/>
+    </LinearLayout>
+
+</LinearLayout>
